@@ -1,4 +1,4 @@
-# My First React Weather App
+# My React Weather App
 
 This project was made using HTML, CSS, JavaScript, React.JS Framework, NPM
 
